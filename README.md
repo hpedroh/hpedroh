@@ -11,7 +11,7 @@ Atualmente, como Analista de Dados, sou responsável por todo o ciclo do dado: d
 Comprometido com o aprendizado contínuo, possuo dupla especialização (Ciência de Dados e Data Analytics), buscando elevar o nível das entregas com o uso de modelos preditivos e estatística avançada.
 
 ### Contato rápido
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohalves1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hpedrohalves)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroh_alves@hotmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5517991004334)
 
