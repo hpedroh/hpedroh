@@ -92,6 +92,6 @@ Atualmente estou bem posicionado na Vitalforce, mas **sempre aberto a**:
 
 É só chamar!
 
-<img src="https://komarev.com/ghpvc/?username=pedrohalves1&color=brightgreen" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=hpedroh&color=brightgreen" alt="Profile views" />
 
 Obrigado pela visita! 🚀
