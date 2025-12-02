@@ -88,7 +88,7 @@ Comprometido com o aprendizado contínuo, possuo dupla especialização (Ciênci
 Atualmente estou bem posicionado na Vitalforce, mas **sempre aberto a**:
 - Freelances e projetos pontuais de BI/Dados
 - Colaborações em projetos open-source
-- Troca de conhecimento, mentoria ou conversa técnica sobre SQL, Power BI, Python ou ETL
+- Troca de conhecimento ou conversa técnica sobre SQL, Power BI, Python ou ETL
 
 É só chamar!
 
